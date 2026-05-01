@@ -52,3 +52,12 @@ The goal is to:
 Run the SQL query in a PostgreSQL environment with the required tables:
 - cohort_users_raw
 - cohort_events_raw
+  ## 📊 Results
+
+Cohort analysis results are available in:
+- `cohort_results.xlsx`
+
+The table shows user retention by:
+- cohort month
+- activity month offset
+- acquisition channel
